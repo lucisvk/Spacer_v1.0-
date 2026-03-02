@@ -1,0 +1,10 @@
+# Copy to "local.properties" in this directory (local.properties is gitignored).
+# Rebuild the app after editing so BuildConfig gets the new values.
+#
+# Google Places (New) — required for venue search, nearby places, and event photo thumbnails.
+# In Google Cloud Console: enable "Places API (New)", enable billing, create an API key,
+# and if you restrict the key (recommended), add Android app package com.example.spacer
+# plus your debug/release SHA-1 certificate fingerprints.
+PLACES_API_KEY=
+
+# Also set SUPABASE_URL, SUPABASE_KEY, etc. as needed for your environment.
