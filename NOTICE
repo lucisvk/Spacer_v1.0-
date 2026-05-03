@@ -1,0 +1,49 @@
+Spacer
+Copyright (c) 2026  Tyler Morency, Christopher Botis, Jesiah Gilbert, Joshua Santana, Alex Tyan, Jonathan Galvan. All Rights Reserved.
+
+This product includes software developed by Tyler Morency, Christopher Botis, Jesiah Gilbert, Joshua Santana, Alex Tyan, Jonathan Galvan.
+
+THIRD-PARTY DEPENDENCIES
+========================
+This application links against the following third-party libraries and
+services. These are the property of their respective copyright holders
+and are governed by their own licenses; their inclusion in this build
+does not transfer any rights in the Spacer source code itself.
+
+  - AndroidX / Jetpack libraries          (Apache License 2.0)
+      Copyright (c) The Android Open Source Project
+  - Jetpack Compose                       (Apache License 2.0)
+      Copyright (c) The Android Open Source Project
+  - Material Components for Android       (Apache License 2.0)
+      Copyright (c) Google LLC
+  - Kotlin Standard Library / Coroutines  (Apache License 2.0)
+      Copyright (c) JetBrains s.r.o.
+  - Kotlinx Serialization                 (Apache License 2.0)
+      Copyright (c) JetBrains s.r.o.
+  - Supabase Kotlin SDK                   (Apache License 2.0)
+      Copyright (c) Supabase
+  - Retrofit / OkHttp                     (Apache License 2.0)
+      Copyright (c) Square, Inc.
+  - Gson                                  (Apache License 2.0)
+      Copyright (c) Google Inc.
+  - Google Play Services (Auth, Maps, Places)  (Apache License 2.0)
+      Copyright (c) Google LLC
+  - JUnit                                 (Eclipse Public License)
+      Copyright (c) JUnit contributors
+
+THIRD-PARTY SERVICES
+Spacer integrates with the following hosted services at runtime. Their
+use is governed by each provider's terms of service.
+
+  - Supabase (PostgreSQL, Auth, Realtime, Storage)
+  - Google Cloud Platform (OAuth, Maps SDK, Places API, Calendar)
+  - Groq Cloud (LLM inference for the in-app chatbot)
+  - Discord OAuth
+
+THIRD-PARTY ICON / BRAND ASSET
+  - Google "G" logo                — Trademark of Google LLC.
+  - Discord mark                   — Trademark of Discord Inc.
+  - GitHub Octicons mark           — © GitHub, Inc.
+These marks are the property of their respective owners and are used here
+solely to identify the corresponding third-party providers. No endorsement
+is implied.
