@@ -47,3 +47,16 @@ Thumbs.db
 database/
 
 skills-lock.json
+
+# Editor and tooling caches
+.vscode/
+.cursor/
+.cursorrules
+.windsurf/
+.aider/
+.claude/
+.zed/
+
+# Release artifacts
+/app/release/
+/app/build/
